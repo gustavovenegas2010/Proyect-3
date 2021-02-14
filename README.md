@@ -17,7 +17,8 @@ The Jupyter Notebook includes the following steps
 * Matrix Factorization Build use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
 
 ## 3. Instructions
-Ejecute los siguientes comandos en el Python 3.
+
+Run the following commands in Python 3.
 
 ## 4. Author and Acknowledgements
 The author of this project is Gustavo Venegas Segura, Statistician with a specialization in statistics from the National University of Colombia, currently working at Banco Davivienda. Special thanks to Jorge Andrés Escobar and Udacity for their help in this project.
